@@ -20,9 +20,9 @@ const Footer = () => {
                 <Grid item md={3} sm={6} xxs={12}>
                     <FooterThree />
                 </Grid>
-                <Grid item md={3} sm={6} xxs={12}>
+                {/* <Grid item md={3} sm={6} xxs={12}>
                     <FooterFour />
-                </Grid>
+                </Grid> */}
             </Grid>
             <BottomFooter />
         </Container>

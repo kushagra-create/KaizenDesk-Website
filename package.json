@@ -1,5 +1,5 @@
 {
-  "name": "codestation-portfolio",
+  "name": "kaizendesks-portfolio",
   "private": true,
   "scripts": {
     "dev": "next dev",
