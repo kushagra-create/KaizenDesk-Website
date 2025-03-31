@@ -3,6 +3,7 @@ import Ui from "Assets/about/ui.png";
 import Web from "Assets/about/web.png";
 import App from "Assets/about/app.png";
 import Graphic from "Assets/about/graphic.png";
+import Salesforce from "Assets/about/Salesforce.png";
 
 export default [
     {
@@ -20,9 +21,14 @@ export default [
         description: "Both Andriod and ios are developing here. We offer a cross-platform solution that is easy to use and maintain.",
         icon: App
     },
+    // {
+    //     title: "Graphic Design",
+    //     description: "We provide all kinds of designs like logos, flyers, visiting cards, social media, etc.",
+    //     icon: Graphic
+    // }
     {
-        title: "Graphic Design",
-        description: "We provide all kinds of designs like logos, flyers, visiting cards, social media, etc.",
-        icon: Graphic
+        title: "Salesforce",
+        description: "We offer salesforce CRM solution to grow your business even better",
+        icon: Salesforce
     }
 ]

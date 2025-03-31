@@ -8,7 +8,7 @@ import About from "Section/About";
 import Portfolio from "Section/Portfolio";
 import Skill from "Section/Skill";
 import Client from "Section/Client";
-import Blog from "Section/Blog";
+//import Blog from "Section/Blog";
 import Contact from "Section/Contact";
 import Footer from "Section/Footer";
 
@@ -22,7 +22,7 @@ const index = () => {
       <Portfolio />
       <Skill />
       <Client />
-      <Blog />
+      {/* <Blog /> */}
       <Contact />
       <Footer />
     </>
